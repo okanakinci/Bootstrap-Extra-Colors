@@ -15,7 +15,7 @@
     <li>Borders</li>
     <li>Tables</li>
   </ul>
-  <p>Bootstrap’ın kullanıcılarına sunduğu varsayılan renkler şunlardır:</p>
+  <p>These are the default colors that Bootstrap offers to its users:</p>
   <ul>
     <li>Primary (blue)</li>
     <li>Secondary (gray)</li>
